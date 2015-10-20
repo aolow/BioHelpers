@@ -1,2 +1,3 @@
 # BioHelpers
-helper functions in biological analysis
+My collection of helper functions for biological analysis, adapted from open source packages and materials as referenced in the code.
+1) Kaplan-Meier Survival plots
